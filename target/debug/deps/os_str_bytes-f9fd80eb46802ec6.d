@@ -1,0 +1,11 @@
+/root/workspace/rust/bridge_host/target/debug/deps/os_str_bytes-f9fd80eb46802ec6.rmeta: /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/lib.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/common/mod.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/util.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/common/raw.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/iter.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/pattern.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/raw_str.rs
+
+/root/workspace/rust/bridge_host/target/debug/deps/os_str_bytes-f9fd80eb46802ec6.d: /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/lib.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/common/mod.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/util.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/common/raw.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/iter.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/pattern.rs /root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/raw_str.rs
+
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/lib.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/common/mod.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/util.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/common/raw.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/iter.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/pattern.rs:
+/root/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/os_str_bytes-6.1.0/src/raw_str.rs:
